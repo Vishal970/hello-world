@@ -38,7 +38,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy plural Learning </h1>
+   <h1> Thankyou, Happy pluralsight Learning </h1>
 
   
 </form>
